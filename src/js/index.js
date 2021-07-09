@@ -5,8 +5,8 @@ let img;
 let particles = []
 
 function preload() {
-	audio = loadSound("audio/TheBlaze.mp3");
-	img = loadImage('./images/background.jpeg')
+	audio = loadSound("/client/src/audio/TheBlaze.mp3");
+	img = loadImage('/client/src/images/background.jpeg')
 }
 
 function uploaded(file) {

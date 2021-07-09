@@ -1,0 +1,23 @@
+{
+  "name": "p5-audio-visualizer",
+  "version": "1.0.0",
+  "description": "P5 Audio Visualizer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lerisse/p5-audio-visualizer.git"
+  },
+  "author": "Tristan Lerisse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lerisse/p5-audio-visualizer/issues"
+  },
+  "homepage": "https://github.com/lerisse/p5-audio-visualizer#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
